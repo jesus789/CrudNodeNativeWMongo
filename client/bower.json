@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/AngelDX/CRUDNodeMongoNativoUPeU",
+  "authors": [
+    "AngelDX <angel.condori@gmail.com>"
+  ],
+  "description": "jquery y materialize",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "crudnode",
+  "version": "1.0.0",
+  "description": "crud usando node con db mongodb nativa",
+  "main": "sever/rutas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus789/CrudNodeNativeWMongo.git"
+  },
+  "author": "Jesus Alberto Yucra Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus789/CrudNodeNativeWMongo/issues"
+  },
+  "homepage": "https://github.com/jesus789/CrudNodeNativeWMongo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26"
+  }
+}
